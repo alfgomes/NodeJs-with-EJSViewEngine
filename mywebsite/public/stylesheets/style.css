@@ -39,6 +39,15 @@ a {
   color: #1abc9c !important;
 }
 
-.active>a {
+.active > a {
   color: #1abc9c !important;
+}
+
+footer{
+  padding: 5px 0;
+  font-size: 14px;
+  color:  #BBB;
+  background: #222;
+  text-align: center;
+  height: 35px;
 }
